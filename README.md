@@ -13,3 +13,7 @@ Player de rádios Lo-Fi com interface de terminal em Python.
 1. Instale a dependência:
 ```bash
 pip install pygame
+2. Rode o player:
+python3 simple_lofi.py
+🔗 Autor
+Feito por Kirito — programador Python e entusiasta de tecnologia.
